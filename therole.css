@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: Arial, sans-serif;
+    background-image: url(./abstract-smooth-empty-grey-studio-well-use-as-background-business-report-digital-website-template-backdrop_1258-55967.webp);
+   }
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+   }
+iframe {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: none;
+   }
